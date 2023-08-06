@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Real Estate</string>
+
+    <string name="bedroom">Bedroom : %1$s</string>
+    <string name="room">Room : %1$s</string>
+    <string name="property_type">Property Type : %1$s</string>
+
+    <string name="image">image</string>
+    <string name="share_item">shareItem</string>
+    <string name="back">back</string>
+    <string name="retry">Retry</string>
+    <string name="something_went_wrong">Something went wrong, please reload the page</string>
+
+</resources>
